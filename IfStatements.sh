@@ -2,7 +2,7 @@
 
 number=10
 #simple if statement
-if [ $number -eq 10 ]; then #if the number is eual to 10
+if [ $number -eq 10 ]; then #if the number is equal to 10
     echo "The number is 10."
 fi
 
